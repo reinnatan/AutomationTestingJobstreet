@@ -161,4 +161,7 @@
   ![](screenshoot/ghrekin_plugin.png)
 ## Result Testing
   ![](screenshoot/result.gif)
+## Running allure framework with command
+  ``` allure serve allure-results ``` <br/>
+  in the directory of the project so it will display the reporting of the test
   
